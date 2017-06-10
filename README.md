@@ -1,6 +1,8 @@
 # cloths-shop-
 assignment 3 
 
+git url: https://github.com/chita13/cloths-shop-.git
+
 In this project we have 2 files:
 DbUtils - contains all DB methods: insert, select, update and delete
 Server - contains all API calls as you can see in the API table attached
